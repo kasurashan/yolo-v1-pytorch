@@ -17,4 +17,5 @@ detect.py : weight 이용해서 이미지에 대해 bbox 그려서 result.png로
 주의 : weight(~.pth파일) 경로들은 코드 내에서 알아서 잘 수정해서 쓰면 됨
 
 
-
+135 epoch 학습시킨 weight 파일
+https://drive.google.com/file/d/1ZUeYlqmA1Y4Q7CleZX45ALBVsgbZ4sWZ/view?usp=sharing
